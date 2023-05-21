@@ -1,5 +1,5 @@
 # Data-science-Machine-Learning-using-python-3
-The dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
+The dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
 The required library is uploaded in python.
 the file is uploaded from the local directory.
 the sample information (first column) is removed before uploading into the python kernel.
