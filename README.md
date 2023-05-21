@@ -1,8 +1,8 @@
 # Data-science-Machine-Learning-using-python-3
 The dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 The required library is uploaded in python.
-the file is uplosded from the loca directory.
-the sample iinformation (first column) is removed before uploading into the python kernel.
+the file is uploaded from the local directory.
+the sample information (first column) is removed before uploading into the python kernel.
 The dataset consists of 9 attributes (sample information is removed) and one class (2 means benign and 4 means malignant)
 the information of data types and missing value is analysed.
 we can see bare nuclei contains a question mark that is removed from the dataset using drop function.
